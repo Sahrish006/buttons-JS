@@ -11,9 +11,9 @@ document.querySelector("#orange").addEventListener("click", function () {
 });
 
 document.querySelector("#pink").addEventListener("click", function () {
-  document.body.style.backgroundColor = "Deeppink";
+  document.body.style.backgroundColor = "hotpink";
 });
 
 document.querySelector("#white").addEventListener("click", function () {
-  document.body.style.backgroundColor = "White";
+  document.body.style.backgroundColor = "#e6e0e0";
 });
